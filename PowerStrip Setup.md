@@ -25,4 +25,4 @@ where `[tp-ip]=192.168.0.1` if this optional step is done before step 3; and if 
 ![](/attachements/2022-06-22%2022.42.28.gif)
 
 # 3. Assign/Change Device Name and/or Entity ID
-![](/attachements/2022-06-22%2022.42.28.gif)
+![](/attachements/2022-06-22%2022.42.58.gif)
